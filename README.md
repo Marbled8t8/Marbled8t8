@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->  
+<p align = "center">
+I am an aspiring Data Scientist with MSc in Data Science
+I am currently learning cloud and cybersecurity
+I am also currently learning Software Testing
+  - How to reach me: <a href="https://www.linkedin.com/in/marble-ombati-65989bab/>
+                       </p>
